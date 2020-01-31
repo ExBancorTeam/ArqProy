@@ -1,0 +1,11 @@
+C:\Users\HW379NG\source\repos\ArqProy\src\Backend\ArqProy.Repositories\bin\Debug\netstandard2.0\ArqProy.Repositories.deps.json
+C:\Users\HW379NG\source\repos\ArqProy\src\Backend\ArqProy.Repositories\bin\Debug\netstandard2.0\ArqProy.Repositories.dll
+C:\Users\HW379NG\source\repos\ArqProy\src\Backend\ArqProy.Repositories\bin\Debug\netstandard2.0\ArqProy.Repositories.pdb
+C:\Users\HW379NG\source\repos\ArqProy\src\Backend\ArqProy.Repositories\obj\Debug\netstandard2.0\ArqProy.Repositories.csprojAssemblyReference.cache
+C:\Users\HW379NG\source\repos\ArqProy\src\Backend\ArqProy.Repositories\obj\Debug\netstandard2.0\ArqProy.Repositories.AssemblyInfoInputs.cache
+C:\Users\HW379NG\source\repos\ArqProy\src\Backend\ArqProy.Repositories\obj\Debug\netstandard2.0\ArqProy.Repositories.AssemblyInfo.cs
+C:\Users\HW379NG\source\repos\ArqProy\src\Backend\ArqProy.Repositories\obj\Debug\netstandard2.0\ArqProy.Repositories.dll
+C:\Users\HW379NG\source\repos\ArqProy\src\Backend\ArqProy.Repositories\obj\Debug\netstandard2.0\ArqProy.Repositories.pdb
+C:\Users\HW379NG\source\repos\ArqProy\src\Backend\ArqProy.Repositories\bin\Debug\netstandard2.0\ArqProy.Models.dll
+C:\Users\HW379NG\source\repos\ArqProy\src\Backend\ArqProy.Repositories\bin\Debug\netstandard2.0\ArqProy.Models.pdb
+C:\Users\HW379NG\source\repos\ArqProy\src\Backend\ArqProy.Repositories\obj\Debug\netstandard2.0\ArqProy.Repositories.csproj.CopyComplete

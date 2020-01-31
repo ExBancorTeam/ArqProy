@@ -1,0 +1,8 @@
+C:\Users\HW379NG\source\repos\ArqProy\src\Backend\ArqProy.Services\bin\Debug\netstandard2.0\ArqProy.Services.deps.json
+C:\Users\HW379NG\source\repos\ArqProy\src\Backend\ArqProy.Services\bin\Debug\netstandard2.0\ArqProy.Services.dll
+C:\Users\HW379NG\source\repos\ArqProy\src\Backend\ArqProy.Services\bin\Debug\netstandard2.0\ArqProy.Services.pdb
+C:\Users\HW379NG\source\repos\ArqProy\src\Backend\ArqProy.Services\obj\Debug\netstandard2.0\ArqProy.Services.csprojAssemblyReference.cache
+C:\Users\HW379NG\source\repos\ArqProy\src\Backend\ArqProy.Services\obj\Debug\netstandard2.0\ArqProy.Services.AssemblyInfoInputs.cache
+C:\Users\HW379NG\source\repos\ArqProy\src\Backend\ArqProy.Services\obj\Debug\netstandard2.0\ArqProy.Services.AssemblyInfo.cs
+C:\Users\HW379NG\source\repos\ArqProy\src\Backend\ArqProy.Services\obj\Debug\netstandard2.0\ArqProy.Services.dll
+C:\Users\HW379NG\source\repos\ArqProy\src\Backend\ArqProy.Services\obj\Debug\netstandard2.0\ArqProy.Services.pdb

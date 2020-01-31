@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Migrations\20200131165519_Initial.cs" />
+    <Compile Remove="Migrations\20200131165519_Initial.Designer.cs" />
+    <Compile Remove="Migrations\20200131165712_Initial.cs" />
+    <Compile Remove="Migrations\20200131165712_Initial.Designer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ArqProy.Models\ArqProy.Models.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,8 @@
+C:\Users\HW379NG\source\repos\ArqProy\src\Backend\ArqProy.Dto\bin\Debug\netstandard2.0\ArqProy.Dto.deps.json
+C:\Users\HW379NG\source\repos\ArqProy\src\Backend\ArqProy.Dto\bin\Debug\netstandard2.0\ArqProy.Dto.dll
+C:\Users\HW379NG\source\repos\ArqProy\src\Backend\ArqProy.Dto\bin\Debug\netstandard2.0\ArqProy.Dto.pdb
+C:\Users\HW379NG\source\repos\ArqProy\src\Backend\ArqProy.Dto\obj\Debug\netstandard2.0\ArqProy.Dto.csprojAssemblyReference.cache
+C:\Users\HW379NG\source\repos\ArqProy\src\Backend\ArqProy.Dto\obj\Debug\netstandard2.0\ArqProy.Dto.AssemblyInfoInputs.cache
+C:\Users\HW379NG\source\repos\ArqProy\src\Backend\ArqProy.Dto\obj\Debug\netstandard2.0\ArqProy.Dto.AssemblyInfo.cs
+C:\Users\HW379NG\source\repos\ArqProy\src\Backend\ArqProy.Dto\obj\Debug\netstandard2.0\ArqProy.Dto.dll
+C:\Users\HW379NG\source\repos\ArqProy\src\Backend\ArqProy.Dto\obj\Debug\netstandard2.0\ArqProy.Dto.pdb

@@ -6198,7 +6198,8 @@
   },
   "packageFolders": {
     "C:\\Users\\HW379NG\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
@@ -6210,7 +6211,8 @@
       "outputPath": "C:\\Users\\HW379NG\\source\\repos\\ArqProy\\src\\Backend\\ArqProy.Dto\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
+        "C:\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
         "C:\\Users\\HW379NG\\AppData\\Roaming\\NuGet\\NuGet.Config",
